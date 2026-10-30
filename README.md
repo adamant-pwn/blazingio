@@ -23,7 +23,7 @@ Yes, really. The selling point is you don't have to re-learn I/O. It's just magi
 
 ## License for minified code
 
-BlazingIO is distributed under the [MIT license](LICENSE). As an additional permission, you may use, copy, modify, and redistribute generated `blazingio.min.hpp` code for any purpose without reproducing the full copyright and permission notices from `LICENSE`, provided you retain the generated notice identifying BlazingIO and linking to this repository. This permission also applies to modified copies. The MIT license's warranty disclaimer and limitation of liability continue to apply.
+BlazingIO is distributed under the [MIT license](LICENSE). As an additional permission, you may include upstream-generated `blazingio.min.hpp` code, unchanged except for formatting, in solutions submitted to Codeforces or equivalent public competitive-programming online judges without reproducing the full copyright and permission notices from `LICENSE`. Retain the generated attribution notice. This permission includes practice and off-contest submissions, and the judge storing, executing and displaying their source through its submission pages and archives. Redistribution elsewhere remains subject to the MIT license. This additional permission does not cover code generated from modified BlazingIO sources. The MIT license's warranty disclaimer and limitation of liability continue to apply.
 
 ## `.min.hpp`? What's that JSism doing in my C++?
 
